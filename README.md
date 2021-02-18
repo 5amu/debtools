@@ -1,5 +1,3 @@
-# debtools - 5amu ppa
-
 This is my own PPA hosted on Github (better that launchpad anyway). The idea is to make the installation of certain tools, developed by me, faster.
 
 ## install (add ppa to apt sources)
