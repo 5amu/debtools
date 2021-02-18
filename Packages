@@ -1,0 +1,14 @@
+Package: searchpoc
+Version: 1.0.6
+Architecture: all
+Maintainer: 5amu <v.casalino@protonmail.com>
+Depends: python3
+Filename: ./searchpoc.deb
+Size: 3252
+MD5sum: 9a216bad32bdfb4041f807112d5b5abc
+SHA1: 57d9fd4b7de343164b5533a3b2f7634c72f01ee6
+SHA256: 0761d1a2e04497d87ae052e7c74f4c7ff16d075871195880a788cb594381e538
+Section: base
+Priority: optional
+Description: Search a PoC for a (or some) given CVE id.
+
