@@ -8,7 +8,11 @@ sudo curl -s --compressed -o /etc/apt/sources.list.d/5amu-debtools.list "https:/
 sudo apt update
 ```
 
-*TODO*: create install-ppa.sh to automate.
+Or
+
+```bash
+curl -sL https://ppa.casali.no/get.sh | sudo sh
+```
 
 ## packages
 
