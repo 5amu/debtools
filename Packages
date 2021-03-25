@@ -1,3 +1,17 @@
+Package: apkast
+Version: 1.0
+Architecture: all
+Maintainer: 5amu <v.casalino@protonmail.com>
+Depends: jq, bc, unzip
+Filename: ./apkast.deb
+Size: 17156
+MD5sum: 6ba9a7e623ee0cad0cd795facf1ae4c1
+SHA1: 5ad2ad5f78e47a4e9d61cfb525c1e50dbd9b2a49
+SHA256: 1b7fd5dc44b7d3ea06b6e0315a8639c9fa70f7ac648e1cb73bb0999d66657f67
+Section: base
+Priority: optional
+Description: Analyse APKs... fAST.
+
 Package: searchpoc
 Version: 1.0.6
 Architecture: all
